@@ -5,6 +5,7 @@
 *State: 抽象状态类
 
 *ConcreteState: 具体状态类
+
 ##论坛用户等级：实例说明
 
   在某论坛系统中，用户可以发表留言，发表留言将增加积分；用户也可以回复留言，回复留言也将增加积分；用户还可以下载文件，下载文件将扣除积分。该系统用户分为三个等级，分别是新手、高手和专家，这三个等级对应三种不同的状态，这三种状态分别定义如下：
@@ -18,6 +19,7 @@
 ##论坛用户等级：参考类图
 
 ![Image text](https://github.com/shuimowang/shejimoshi/blob/main/Picture/state1.jpg)
+
 ##论坛用户等级：代码运行
 
 ![Image text](https://github.com/shuimowang/shejimoshi/blob/main/Picture/state2.jpg)
