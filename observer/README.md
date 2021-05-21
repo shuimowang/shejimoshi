@@ -1,3 +1,5 @@
+@shuimowang
+
 #第23章 观察者模式
 
 Subject: 目标
